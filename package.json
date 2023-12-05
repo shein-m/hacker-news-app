@@ -1,5 +1,6 @@
 {
   "name": "hacker-news-front",
+  "homepage": "https://shein-m.github.io/hacker-news-app/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
